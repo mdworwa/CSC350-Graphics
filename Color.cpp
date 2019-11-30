@@ -72,7 +72,7 @@ Color Color::operator*(Color c){
 	newColor.Clamp(); // Ensure channel intensities are valid
 	return newColor;
 }
-//----------------------------------------------------- (from Chad)
+//-----------------------------------------------------
 void Color::GetIntegerChannels(int* pRed, int* pGreen, int* pBlue, int* pAlpha){
 	*pRed = red * 255;
 	*pGreen = green * 255;
