@@ -1,5 +1,5 @@
 # CSC350-Graphics
-This is a semester-long project that my partner and worked on in my Graphics course at DePauw University.
+This is a semester-long project that my partner and I worked on in my Graphics course at DePauw University.
 
 PROJECT TITLE: CSC350 Project
 
